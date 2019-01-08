@@ -6,7 +6,7 @@ package com.sync.purchase;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-// this
+// fires up a servlet container for our service
 @SpringBootApplication
 public class Main {
 
